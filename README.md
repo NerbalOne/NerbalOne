@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NerbalOne
 - 👀 I’m interested in Information Security and Blue Team related items. 
-- 🌱 I’m currently learning SIEM Architect, Sysmon, and SentinelOne.
+- 🌱 I’m currently learning SIEM Architecture, Sysmon, and SentinelOne.
 - 💞️ I’m looking to collaborate on SentinelOne STAR rules.
 
 <!---
